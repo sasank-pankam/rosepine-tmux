@@ -2,7 +2,7 @@
 # WARNING: hex colors can't contain capital letters
 
 # --> Catppuccin (Mocha)
-thm_base="#000000"
+thm_base="#090909"
 thm_surface="#000000"
 thm_overlay="#000000"
 thm_muted="#6e6a86"
